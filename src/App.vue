@@ -7,7 +7,7 @@
 
 <script>
 import Navbar from '@/components/Navbar'
-import Quote from '@/views/Quote'
+import Quote from '@/views/Product'
 
 
 export default {
