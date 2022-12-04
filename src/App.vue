@@ -7,13 +7,12 @@
 
 <script>
 import Navbar from '@/components/Navbar'
-import Quote from '@/views/Product'
 
 
 export default {
   name: 'App',
   components: {
-    Navbar,Quote
+    Navbar
   }
 };
 </script>
